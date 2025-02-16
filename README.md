@@ -1,5 +1,5 @@
 # Hands-On AI: RAG using LlamaIndex
-This is the repository for the LinkedIn Learning course Hands-On AI: RAG using LlamaIndex. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the Hands-On AI: RAG using LlamaIndex.
 
 ![lil-thumbnail-url]
 
