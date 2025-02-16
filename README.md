@@ -8,14 +8,10 @@ covers the architecture of retrieval systems, the mechanics of indexing vast dat
  </p><p>
 Gain an understanding of the theoretical underpinnings of RAG, practical skills in building and deploying LlamaIndex, and review a critical analysis of RAG applications in various industries. Topics range from the basics of data retrieval and indexing to advanced techniques in enhancing generative models with external data. By the end of the course, you’ll be prepared to design, implement, and evaluate RAG systems, positioning them at the cutting edge of AI technology implementation.
 
-### Instructor
 
-Harpreet SahotaLinkedIn Influencer
 
-Deep Learning Expert, Data Scientist, Developer Relations Manager
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/harpreet-sahota?u=104).
 
 
 
